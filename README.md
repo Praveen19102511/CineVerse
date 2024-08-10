@@ -1,5 +1,9 @@
-# CineVerse
+<p align="center">
+    <img src="../../asset/logo.png"><br>
+    Future-proof virtual cinema platform
+</p>
 
+<hr>
 ## Overview
 
 Entertainment App is a web application that offers users the opportunity to explore and enjoy a diverse range of movies. The platform provides an intuitive interface for users to discover movies, view detailed information, and watch trailers. Additionally, the application incorporates user authentication, bookmarking of favorite movies, and personalized recommendations.
