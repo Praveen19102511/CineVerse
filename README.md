@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../../asset/logo.png"><br>
+    <img src="./client/src/asset/logo.png"><br>
     Future-proof virtual cinema platform
 </p>
 
