@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="./client/src/asset/logo.png"><br>
-    Future-proof virtual cinema platform
+    <img src="./client/public/favicon.ico"><br>
+    CineVerse
 </p>
 
 <hr>
 ## Overview
 
-Entertainment App is a web application that offers users the opportunity to explore and enjoy a diverse range of movies. The platform provides an intuitive interface for users to discover movies, view detailed information, and watch trailers. Additionally, the application incorporates user authentication, bookmarking of favorite movies, and personalized recommendations.
+CineVerse is a web application that offers users the opportunity to explore and enjoy a diverse range of movies. The platform provides an intuitive interface for users to discover movies, view detailed information, and watch trailers. Additionally, the application incorporates user authentication, bookmarking of favorite movies, and personalized recommendations.
 
 ## Visit the website:
    https://cine-verse-stjd.vercel.app/
